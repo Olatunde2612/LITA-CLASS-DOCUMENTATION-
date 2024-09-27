@@ -2,6 +2,14 @@
 
 ### Project Title: E commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparations
+
 ### Project Overview
 ```
 This Data Analysis project aims to generate into the sales performance of the Ecommerce project 
@@ -44,3 +52,12 @@ EDA involved the exploring of the Data to answer some questions about the Data s
   ```
 
 ### Data Visualization 
+
+😆
+
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1  |Table 2  |Table 3  |
+
