@@ -17,6 +17,7 @@ Data Cleaning and Preparations
 This Data Analysis project aims to generate into the sales performance of the Ecommerce project 
 
 ### Data Sources
+```
 The primary source  of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED  
 
 ### Tools Used
@@ -39,7 +40,6 @@ In the intial phase of the Data Cleaning and Preparations, we perform the follow
 
 ### Exploratory Data Analysis
 ```
-
 EDA involved the exploring of the Data to answer some questions about the Data such as;
 - What is the overall sales trend?
 - Which product are top sellers?
